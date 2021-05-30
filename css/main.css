@@ -134,6 +134,7 @@ body {
 
 @media (min-width: 800px) {
   .top-section .right .reviews .review {
+    flex-direction: row;
     width: 350px;
   }
 }
